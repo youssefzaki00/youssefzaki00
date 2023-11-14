@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="300" align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 <h3 align="center">
   Welcome to Youssef zaki's profile!
